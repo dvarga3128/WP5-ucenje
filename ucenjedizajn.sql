@@ -1,28 +1,39 @@
---create database ucenjedizajn;
+use master
+go
+drop database if exists ucenjedizajn
+go 
+create database ucenjedizajn
+go
+use ucenjedizajn
 
---create table klijenti(
---sifra int,
---naziv varchar(100),
---projekt varchar(100),
---email varchar(100)
---);
+create table klijenti(
+sifra int not null primary key identity(1,1),
+naziv varchar(100) not null,
+email varchar(100) not null
+);
 
---create table projekti(
---sifra int,
---naziv varchar(100),
---usluga varchar(100),
---dizajner varchar(100)
---);
+create table projekti(
+sifra int not null primary key identity(1,1),
+naziv varchar(50) not null,
+usluga int null,
+dizajner int null,
+klijent int null
+);
 
---create table usluge(
---sifra int,
---naziv varchar(100),
---cijena int
---);
+create table usluge(
+sifra int not null primary key identity(1,1),
+naziv varchar(50) not null,
+cijena decimal (18,2) null
+);
 
---create table dizajner(
---sifra int,
---ime varchar(20),
---prezime varchar(20),
---email varchar(100)
---);
+create table dizajneri(
+sifra int not null primary key identity(1,1),
+ime varchar(50) not null,
+prezime varchar(50) not null,
+email varchar(100) not null
+);
+
+alter table projekti add foreign key (klijent) references klijenti(sifra);
+alter table projekti add foreign key (usluga) references usluge(sifra);
+alter table projekti add foreign key(dizajner) references dizajneri(sifra);
+
