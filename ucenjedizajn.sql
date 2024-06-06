@@ -37,3 +37,11 @@ alter table projekti add foreign key (klijent) references klijenti(sifra);
 alter table projekti add foreign key (usluga) references usluge(sifra);
 alter table projekti add foreign key(dizajner) references dizajneri(sifra);
 
+--select * from klijenti
+
+insert into klijenti (naziv,email) values
+('LegitFirma','legitfirma@gmail.com'),
+('Pero Peri?', 'pperic@gmail.com'),
+('Jošjednafirma','firma22@gmail.com');
+
+
