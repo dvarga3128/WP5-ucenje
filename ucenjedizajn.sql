@@ -62,4 +62,3 @@ insert into dizajneri (ime,prezime,email) values
 
 insert into projekti (naziv,usluga,dizajner,klijent) values
 ('rebranding',1,3,2),('novi logo',3,1,1),('sm marketing',2,2,3);
-
