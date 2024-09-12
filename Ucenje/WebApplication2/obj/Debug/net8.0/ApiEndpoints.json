@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "WebApplication2.Controllers.SmjerController",
+    "Method": "Get",
+    "RelativePath": "api/vi/Smjer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.SmjerController",
+    "Method": "Post",
+    "RelativePath": "api/vi/Smjer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "smjer",
+        "Type": "WebApplication2.Models.Smjer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.SmjerController",
+    "Method": "GetBySifra",
+    "RelativePath": "api/vi/Smjer/{sifra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.SmjerController",
+    "Method": "Put",
+    "RelativePath": "api/vi/Smjer/{sifra}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "smjer",
+        "Type": "WebApplication2.Models.Smjer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.SmjerController",
+    "Method": "Delete",
+    "RelativePath": "api/vi/Smjer/{sifra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "smjer",
+        "Type": "WebApplication2.Models.Smjer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

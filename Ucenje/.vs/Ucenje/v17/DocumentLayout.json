@@ -3,16 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA13E7D4-71DA-403A-B90D-462FCC0022B4}|UcenjeCS\\UcenjeCS.csproj|c:\\users\\admin\\documents\\github\\wp5-ucenje\\ucenje\\ucenjecs\\e02varijabletipovipodataka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA13E7D4-71DA-403A-B90D-462FCC0022B4}|UcenjeCS\\UcenjeCS.csproj|solutionrelative:ucenjecs\\e02varijabletipovipodataka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\E04Z1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA13E7D4-71DA-403A-B90D-462FCC0022B4}|UcenjeCS\\UcenjeCS.csproj|c:\\users\\admin\\documents\\github\\wp5-ucenje\\ucenje\\ucenjecs\\e01ulazizlaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA13E7D4-71DA-403A-B90D-462FCC0022B4}|UcenjeCS\\UcenjeCS.csproj|solutionrelative:ucenjecs\\e01ulazizlaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F1E51FA-53E1-4FCE-A345-0053941F52D5}|UcenjeCSharp\\UcenjeCSharp.csproj|c:\\users\\admin\\documents\\github\\wp5-ucenje\\ucenje\\ucenjecsharp\\e12rekurzija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1E51FA-53E1-4FCE-A345-0053941F52D5}|UcenjeCSharp\\UcenjeCSharp.csproj|solutionrelative:ucenjecsharp\\e12rekurzija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA13E7D4-71DA-403A-B90D-462FCC0022B4}|UcenjeCS\\UcenjeCS.csproj|c:\\users\\admin\\documents\\github\\wp5-ucenje\\ucenje\\ucenjecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA13E7D4-71DA-403A-B90D-462FCC0022B4}|UcenjeCS\\UcenjeCS.csproj|solutionrelative:ucenjecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\E03Z2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\E04UvjetnoGrananjeSwitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\E03Z3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\E03Z1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\E03UvjetnoGrananjeIf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\E02VarijableTipoviPodataka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\E01UlazIzlaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1E51FA-53E1-4FCE-A345-0053941F52D5}|UcenjeCSharp\\UcenjeCSharp.csproj|c:\\users\\admin\\documents\\github\\wp5-ucenje\\ucenje\\ucenjecsharp\\e11metode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1E51FA-53E1-4FCE-A345-0053941F52D5}|UcenjeCSharp\\UcenjeCSharp.csproj|solutionrelative:ucenjecsharp\\e11metode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1E51FA-53E1-4FCE-A345-0053941F52D5}|UcenjeCSharp\\UcenjeCSharp.csproj|c:\\users\\admin\\documents\\github\\wp5-ucenje\\ucenje\\ucenjecsharp\\e11z1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1E51FA-53E1-4FCE-A345-0053941F52D5}|UcenjeCSharp\\UcenjeCSharp.csproj|solutionrelative:ucenjecsharp\\e11z1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\github\\csharp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +49,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "E02VarijableTipoviPodataka.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCS\\E02VarijableTipoviPodataka.cs",
-              "RelativeDocumentMoniker": "UcenjeCS\\E02VarijableTipoviPodataka.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCS\\E02VarijableTipoviPodataka.cs",
-              "RelativeToolTip": "UcenjeCS\\E02VarijableTipoviPodataka.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAgwGQAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "E03Z2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\E03Z2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E03Z2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\E03Z2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E03Z2.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T18:16:51.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T18:53:56.945Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "E01UlazIzlaz.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCS\\E01UlazIzlaz.cs",
-              "RelativeDocumentMoniker": "UcenjeCS\\E01UlazIzlaz.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCS\\E01UlazIzlaz.cs",
-              "RelativeToolTip": "UcenjeCS\\E01UlazIzlaz.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA3AAAA",
+              "Title": "E12Rekurzija.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCSharp\\E12Rekurzija.cs",
+              "RelativeDocumentMoniker": "UcenjeCSharp\\E12Rekurzija.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCSharp\\E12Rekurzija.cs",
+              "RelativeToolTip": "UcenjeCSharp\\E12Rekurzija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:26:40.952Z",
+              "WhenOpened": "2024-07-09T18:43:59.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCS\\Program.cs",
-              "RelativeDocumentMoniker": "UcenjeCS\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCS\\Program.cs",
-              "RelativeToolTip": "UcenjeCS\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "E11Z1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCSharp\\E11Z1.cs",
+              "RelativeDocumentMoniker": "UcenjeCSharp\\E11Z1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCSharp\\E11Z1.cs",
+              "RelativeToolTip": "UcenjeCSharp\\E11Z1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:26:15.235Z",
+              "WhenOpened": "2024-07-09T18:39:33.59Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "E11Metode.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCSharp\\E11Metode.cs",
+              "RelativeDocumentMoniker": "UcenjeCSharp\\E11Metode.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\github\\WP5-ucenje\\Ucenje\\UcenjeCSharp\\E11Metode.cs",
+              "RelativeToolTip": "UcenjeCSharp\\E11Metode.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:11:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "E01UlazIzlaz.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\E01UlazIzlaz.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E01UlazIzlaz.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\E01UlazIzlaz.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E01UlazIzlaz.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:53:57.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "E02VarijableTipoviPodataka.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\E02VarijableTipoviPodataka.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E02VarijableTipoviPodataka.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\E02VarijableTipoviPodataka.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E02VarijableTipoviPodataka.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:53:57.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "E03UvjetnoGrananjeIf.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\E03UvjetnoGrananjeIf.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E03UvjetnoGrananjeIf.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\E03UvjetnoGrananjeIf.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E03UvjetnoGrananjeIf.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:53:57.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "E03Z1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\E03Z1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E03Z1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\E03Z1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E03Z1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:53:57.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "E03Z3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\E03Z3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E03Z3.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\E03Z3.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E03Z3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:53:56.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "E04UvjetnoGrananjeSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\E04UvjetnoGrananjeSwitch.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E04UvjetnoGrananjeSwitch.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\E04UvjetnoGrananjeSwitch.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E04UvjetnoGrananjeSwitch.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:53:56.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E04Z1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\E04Z1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E04Z1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\E04Z1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E04Z1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:53:56.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\github\\csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\github\\csharp\\Program.cs",
+              "RelativeToolTip": "..\\..\\csharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:53:56.501Z"
             }
           ]
         }
